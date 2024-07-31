@@ -4,5 +4,3 @@
 [build.environment]
   CI = "false"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
